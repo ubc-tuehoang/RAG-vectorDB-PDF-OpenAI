@@ -16,4 +16,11 @@ This approach has the potential to transform automated document processing and i
 
 ![alt text](image-2.png)
 
+--------------------------------------
 
+## 
+
+- enhancing and expanding the n-solution (in progress...)
+
+
+![alt text](image-3.png)
